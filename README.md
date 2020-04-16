@@ -1,5 +1,5 @@
 
-Excited at the prospect of joining Cloudflare as a Product Management Intern!
+Excited about the prospect of joining Cloudflare as a Product Management Intern!
 
 You can find my challenge submission [here!](https://github.com/lcr77/internship-application-product-management/blob/master/Cloudflare%20Internship%20PM%20Challenge.pdf)
 
